@@ -1,1 +1,1 @@
-Hello, this is my first repo of outscal.
+Hello, this is my first branch.
